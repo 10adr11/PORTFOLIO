@@ -9,12 +9,13 @@ Ici, vous retrouverez :
 
 
 ## 📁 Structure du projet
-- `xxxxxx` : A modifier
-- `xxxxxx` : A modifier
-- `xxxxxxx` : A modifier
+- `1ère année BUT SD` : ICI tous mes projets et compétances acquises au cours de ma 1ère année à l'IUT
+- `2ème année BUT SD` : ICI tous mes projets et compétances acquises au cours de ma 2ème année à l'IUT
+- `3ème année BUT SD` : ICI tous mes projets et compétances acquises au cours de ma 3ème année à l'IUT
+- `ALTERNANCE` : ICI tous mes projets et compétances acquises au cours de mes 2 ans d'alternance chez APICIL
 
-## 🚀 En ligne
-➡️ [Voir le portfolio](https://github.com/10adr11/PORTFOLIO/tree/main) à modifier
+## 🚀 Me contacter
+➡️ [Voir le portfolio](https://github.com/10adr11/PORTFOLIO/tree/main) à modifier -> Mettre lien linkedin
 
 ---
 
