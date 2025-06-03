@@ -14,7 +14,7 @@ Ici, vous retrouverez :
 - `xxxxxxx` : A modifier
 
 ## 🚀 En ligne
-➡️ [Voir le portfolio](https://10adr11.github.io/portfolio) à modifier
+➡️ [Voir le portfolio](https://github.com/10adr11/PORTFOLIO/tree/main) à modifier
 
 ---
 
