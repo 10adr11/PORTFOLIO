@@ -15,7 +15,7 @@ Ici, vous retrouverez :
 - `ALTERNANCE` : ICI tous mes projets et compétances acquises au cours de mes 2 ans d'alternance chez APICIL
 
 ## 🚀 Me contacter
-➡️ [Voir le portfolio](https://github.com/10adr11/PORTFOLIO/tree/main) à modifier -> Mettre lien linkedin
+➡️ [Profil Linkedin](https://www.linkedin.com/in/adriangiurgiu10/)
 
 ---
 
